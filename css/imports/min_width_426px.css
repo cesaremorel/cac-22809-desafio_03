@@ -1,0 +1,11 @@
+@media (min-width: 426px) {    
+    section{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .product-card {
+        width: 45%;
+        margin: 10px;
+    }
+}
